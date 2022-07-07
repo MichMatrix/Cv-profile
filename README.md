@@ -11,10 +11,10 @@ Then it's showed a short introduction about myself, and my skills.
 Lastly, I informe my contacts: Twitter, Linkedin and GitHub. 
 Moreover, when someone click on "get in touch" he get my e-mail address.
 
-##development
+## development
 
 It was used HTML and CSS in VScode for the development of this website.
 
-##Author
+## Author
 
 Michel Adelino
