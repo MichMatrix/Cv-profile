@@ -169,3 +169,28 @@ p {line-height: 2;}
 #get-in-t {
     font-size: 30px; 
 }
+
+
+
+/**** mobile version ****/
+
+@media (max-width:685px) {
+    .contact-me {
+        width: 90%;
+    }
+    .bottom-container {
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-link {
+        margin: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .copyright {
+        margin-top: 20px;
+    }
+
+}
