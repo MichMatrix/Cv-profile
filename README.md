@@ -15,6 +15,9 @@ Moreover, when someone click on "get in touch" he get my e-mail address.
 
 It was used HTML and CSS in VScode for the development of this website.
 
+## Live
+
+Link: https://michmatrix.github.io/Cv-profile/
 ## Author
 
 Michel Adelino
